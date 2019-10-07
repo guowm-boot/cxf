@@ -145,10 +145,6 @@
             <version>${cxf.slf4j.version}</version>
         </dependency>
         <dependency>
-            <groupId>net.java.dev.msv</groupId>
-            <artifactId>msv-core</artifactId>
-        </dependency>
-        <dependency>
             <groupId>wsdl4j</groupId>
             <artifactId>wsdl4j</artifactId>
         </dependency>
